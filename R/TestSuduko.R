@@ -1,4 +1,4 @@
-#' Test la solution du Suduko si elle est valide ou non
+#' Tester la solution du Suduko si elle est valide ou non
 #'
 #'
 #'@param A : une matrice
