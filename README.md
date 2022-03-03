@@ -4,7 +4,7 @@ PROJET M1 SSD -- Programmation R
 ## EDITEURS
 __AIT__ __MOULAY__ __ABDERRAHIM__ 
 
-__Jiayue__ __YUAN__
+__JIAYUE__ __YUAN__
 
 ## INTRODUCTION
 L’objectif du projet est de créer une bibliothèque R, incluant une application Shiny, contenant des fonctions permettant de :
