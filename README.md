@@ -2,7 +2,7 @@
 PROJET M1 SSD -- Programmation R
 
 ## EDITEURS
-__Abderrahim__ __Ait__ __Moulay__ 
+__AIT__ __MOULAY__ __ABDERRAHIM__ 
 
 __Jiayue__ __YUAN__
 
