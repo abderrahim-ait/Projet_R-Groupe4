@@ -1,7 +1,7 @@
 # Suduko Game - Groupe 4
 PROJET M1 SSD -- Programmation R
 
-## EDITEURS:
+## EDITEURS
 __Abderrahim__ __Ait__ __Moulay__ 
 
 __Jiayue__ __YUAN__
