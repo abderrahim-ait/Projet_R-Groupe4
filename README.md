@@ -1,4 +1,12 @@
-# Suduko Game - Groupe 4
+# Sudoku Game - Groupe 4
+Bibliothèque pour générer, valider, résoudre des puzzles sudoku
+
+<p align="center">
+  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/Suduko.png" width="300" title="Suduko">
+</p>
+
+
+
 PROJET M1 SSD -- Programmation R
 
 ## EDITEURS
