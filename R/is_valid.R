@@ -15,7 +15,7 @@
 is_valid<- function (A,i,j,n) {
 
 
-  if ( (testBlock(A,i,j,n)==FALSE)&&(testligne(A,i,n)==FALSE)&&(testcolonne(A,j,n)==FALSE) ) return(FALSE)
+  if ( (testBlock(A,i,j,n)==FALSE)&&(testligne(A,i,n)==FALSE)&&(testcolonne(A,j,n)==FALSE) ) return(TRUE)
 
   else return(FALSE)
 
