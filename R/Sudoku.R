@@ -1,16 +1,16 @@
 
-#' Generation d'un suduko
+#' Generation d'un sudoku
 #'
 #'
 #'@param : Sans paramétre
-#'@return une matrice de tail 9x9 qui contient les chiffres du suduko
-#'@author AIT MOULAY ABDERRAHIM
+#'@return une matrice de tail 9x9 qui contient les chiffres du sudoku
+#'@author AIT MOULAY ABDERRAHIM, JIAYUE YUAN
 #'@examples
 #' A = Suduko()
 #'@export
 
 
-Suduko <- function() {
+Sudoku <- function() {
 
 # La création d'une matrice de dim = 9 x 9 remplier par des zéros
 
