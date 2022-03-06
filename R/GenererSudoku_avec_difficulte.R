@@ -1,7 +1,7 @@
 
 
 
-GenererSoduko_avec_difficulte <- function(Niveau) {
+GenererSudoku_avec_difficulte <- function(Niveau) {
 
   # Niveau Facile
   if (Niveau == 1) {
@@ -30,8 +30,8 @@ GenererSoduko_avec_difficulte <- function(Niveau) {
       N = 54
     }
   repeat {
-    B = Suduko()
-    B = genererSoduko(A, N)
+    B = Sudoku()
+    B = genererSudoku(A, N)
     A <<- B
     nbr = 0
     X = BacktrackingFinale(A)
