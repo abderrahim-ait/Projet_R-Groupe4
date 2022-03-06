@@ -6,7 +6,7 @@
 #'@param i : l'indice du ligne
 #'@param n ; valeur rechercher
 #'@return : True si il n'est pas valide, Sinon False
-#'@author AIT MOULAY ABDERRAHIM
+#'@author AIT MOULAY ABDERRAHIM,JIAYUE YUAN
 #'@examples
 #' testcolonne (matrice , 3, 2 , valeur )
 #'@export
