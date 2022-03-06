@@ -1,5 +1,5 @@
 
-AfficheSudoko <- function(z) {
+AfficheSudoku <- function(z) {
 
 cols <- ifelse(z, "blue","black")
 par(mar=c(0,0,0,0), bg="white")
