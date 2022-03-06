@@ -1,17 +1,17 @@
 
-#' Suprimer des valeur aléatoire dans un Soduku
+#' Suprimer des valeur aléatoire dans un Sodoku
 #'
 #'
 #'@param A : une matrice
 #'@param N ; nombre de valeur à suprimer
 #'@return une matrice de tail 9x9 qui contient les valeurs vide
-#'@author AIT MOULAY ABDERRAHIM
+#'@author AIT MOULAY ABDERRAHIM, JIAYUE YUAN
 #'@examples
-#' A = genererSoduko (matrice , nombre de valeur )
+#' A = genererSudoku (matrice , nombre de valeur )
 #'@export
 #'
 
-genererSoduko <- function (A,N) {
+genererSudoku <- function (A,N) {
 
   k= sample(1:9,N,replace = TRUE)
   j= sample(1:9,N,replace = TRUE)
