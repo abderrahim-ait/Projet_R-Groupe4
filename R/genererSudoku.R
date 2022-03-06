@@ -1,5 +1,5 @@
 
-#' Suprimer des valeur aléatoire dans un Sodoku
+#' Suprimer des valeur aléatoire dans un Sudoku
 #'
 #'
 #'@param A : une matrice
