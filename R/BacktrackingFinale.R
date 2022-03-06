@@ -12,7 +12,7 @@ BacktrackingFinale <- function(B) {
       Tcolonne[k,z] <<- testcolonne(A,k,z)
       Tblock[k,z] <<- testBlock(A,k,(3*k-1)%%9,z)
     }
-  DF=Possiblite(A)
+  DF=Possibilite(A)
   n = nrow(DF)
   nbr <<- 0
   Backtracking(A,DF,n)
