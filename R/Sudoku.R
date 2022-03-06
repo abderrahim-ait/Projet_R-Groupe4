@@ -6,7 +6,7 @@
 #'@return une matrice de tail 9x9 qui contient les chiffres du sudoku
 #'@author AIT MOULAY ABDERRAHIM, JIAYUE YUAN
 #'@examples
-#' A = Suduko()
+#' A = Sudoku()
 #'@export
 
 
