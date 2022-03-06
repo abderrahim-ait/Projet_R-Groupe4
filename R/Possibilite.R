@@ -3,20 +3,20 @@
 #'
 #'@param A : une matrice
 #'@return : Data Frame
-#'@author AIT MOULAY ABDERRAHIM
+#'@author AIT MOULAY ABDERRAHIM, JIAYUE YUAN
 #'@examples
-#' Possiblite(matrice)
+#' Possibilite(matrice)
 #'@export
 #'
 
-Possiblite<- function (A) {
+Possibilite<- function (A) {
 
   DF=data.frame()
 
     for (i in 1:9) {
     for (j in 1:9) {
 
-    if(NbrPossiblite(A,i,j)!=0) { a= c(i,j,NbrPossiblite(A,i,j))
+    if(NbrPossibilite(A,i,j)!=0) { a= c(i,j,NbrPossibilite(A,i,j))
                                    DF <- rbind(DF,a) }
   }
   }
