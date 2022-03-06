@@ -5,13 +5,13 @@
 #'@param j : l'indice du colonne
 #'@param i : l'indice du ligne
 #'@return : Le nombre de possibilté dans la case A[i,j]
-#'@author AIT MOULAY ABDERRAHIM
+#'@author AIT MOULAY ABDERRAHIM, JIAYUE YUAN
 #'@examples
-#' NbrPossiblite(matrice , 3, 2 )
+#' NbrPossibilite(matrice , 3, 2 )
 #'@export
 #'
 
-NbrPossiblite<- function (A,i,j) {
+NbrPossibilite<- function (A,i,j) {
 
   V=0
   if ( is.na(A[i,j])) {
