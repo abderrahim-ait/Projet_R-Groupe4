@@ -1,14 +1,14 @@
-#' Tester la solution du Suduko si elle est valide ou non
+#' Tester la solution du Sudoku si elle est valide ou non
 #'
 #'
 #'@param A : une matrice
 #'@return : True si la solution est valide, sinon False
-#'@author AIT MOULAY ABDERRAHIM
+#'@author AIT MOULAY ABDERRAHIM, JIAYUE YUAN
 #'@examples
 #' testcolonne (matrice)
 #'@export
 #'
- TestSuduko <- function(A){
+ TestSudoku <- function(A){
    for(i in 1:9)
      for (j in 1:9 ) {
        k = A[i,j]
