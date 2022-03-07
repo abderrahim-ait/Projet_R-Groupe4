@@ -13,12 +13,13 @@
 
 genererSudoku <- function (A,N) {
 
-  k= sample(1:9,N,replace = TRUE)
-  j= sample(1:9,N,replace = TRUE)
 
-  for (i in 1:N) {
-
-    A[k[i],j[i]] <- NA
+  for (k in 1:N) {
+    repeat{
+    i= sample(1:9,1,replace = TRUE)
+    j= sample(1:9,1,replace = TRUE)
+    if (!is.na(A[i,j])) {break} }
+    A[i,j] <- NA
   }
 
   return(A)
