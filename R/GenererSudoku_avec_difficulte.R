@@ -2,7 +2,7 @@
 #'
 #' @param Niveau : un entier entre 1 et 4
 #'
-#' @return une Data frame qui contient la grille du sudoku avec son solution ansi que le nombre de back.
+#' @return une Data frame qui contient la grille du sudoku avec son solution ainsi que le nombre de back.
 #' @export
 #'
 #' @examples
