@@ -1,4 +1,5 @@
-[Contributors  - Projet](https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributors /Projet "Go to GitHub repo")
+<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributors' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Contributors_-100000?style=flat-square&logo=GitHub&logoColor=F7DA06&labelColor=black&color=F4CF04'/></a>
+
 # Sudoku Game - Groupe 4
 Bibliothèque pour générer, valider, résoudre des puzzles sudoku
 
