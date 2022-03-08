@@ -1,4 +1,4 @@
-<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributors' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Contributors_-100000?style=flat-square&logo=GitHub&logoColor=F7DA06&labelColor=black&color=F4CF04'/></a>
+<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributor' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Contributors_-100000?style=flat&logo=GitHub&logoColor=white&labelColor=EAD809&color=black'/></a>
 
 # Sudoku Game - Groupe 4
 Bibliothèque pour générer, valider, résoudre des puzzles sudoku
@@ -11,13 +11,22 @@ Bibliothèque pour générer, valider, résoudre des puzzles sudoku
 
 PROJET M1 SSD -- Programmation R
 
-## EDITEURS
-__AIT__ __MOULAY__ __ABDERRAHIM__ 
-
-__JIAYUE__ __YUAN__
 
 ## INTRODUCTION
 L’objectif du projet est de créer une bibliothèque R, incluant une application Shiny, contenant des fonctions permettant de :
 - générer aléatoirement des grilles de Sudoku complètes
 - résoudre des grilles de Sudoku incomplètes
 - générer des grilles de Sudoku incomplètes associées à un niveau de difficulté
+
+
+
+
+
+
+
+
+
+## EDITEURS
+__AIT__ __MOULAY__ __ABDERRAHIM__ 
+
+__JIAYUE__ __YUAN__
