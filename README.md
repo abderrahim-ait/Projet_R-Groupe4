@@ -1,3 +1,5 @@
+[Contributors  - Projet](https://github.com/Contributors /Projet "Go to GitHub repo") [![stars - Projet](https://img.shields.io/github/stars/Contributors /Projet?style=social)](https://github.com/Contributors /Projet) [![forks - Projet](https://img.shields.io/github/forks/Contributors /Projet?style=social)](https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributors)
+
 # Sudoku Game - Groupe 4
 Bibliothèque pour générer, valider, résoudre des puzzles sudoku
 
