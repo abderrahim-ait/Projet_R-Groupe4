@@ -53,14 +53,5 @@ GenererSudoku_avec_difficulte <- function(Niveau) {
   return(VR)
 }
 
-X=rep(0,100)
-for(i in 1 : 100){
-
-  T1=Sys.time()
-  GenererSoduko_avec_difficulte(3)
-  T2=Sys.time()
-  X[i]=as.numeric(difftime(T2,T1))
-
-}
 
 
