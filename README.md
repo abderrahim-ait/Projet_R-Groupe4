@@ -1,6 +1,6 @@
 <a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributors' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Contributors_-100000?style=flat&logo=GitHub&logoColor=white&labelColor=EAD809&color=black'/></a>
 
-# Sudoku Game - Groupe 4
+# Sudoku Game 
 Bibliothèque pour générer, valider, résoudre des puzzles sudoku
 
 <p align="center">
