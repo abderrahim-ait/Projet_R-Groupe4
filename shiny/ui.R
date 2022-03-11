@@ -59,6 +59,7 @@ fluidPage(
     mainPanel(
       tabsetPanel(
       tabPanel("Game",plotOutput("tableSudoku")),
+      tabPanel("Solution",plotOutput("sol")),
       tabPanel("Règle",HTML(text = "Une grille de Sudoku peut etre vue comme une matrice carr ́ee comprenant 9 lignes et 9 colonnes. 
                                     Chacun des 81 elements de la matrice appartient à l’ensemble {1, 2, 3, . . . , 8, 9}. 
                                     La matrice est divisee en 9 blocs (3 × 3) contenant chacun 9 elements (3 lignes et 3 colonnes). 
