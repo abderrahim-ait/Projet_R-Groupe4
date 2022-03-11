@@ -24,9 +24,3 @@ L’objectif du projet est de créer une bibliothèque R, incluant une applicati
 
 
 
-
-
-## EDITEURS
-__AIT__ __MOULAY__ __ABDERRAHIM__ 
-
-__JIAYUE__ __YUAN__
