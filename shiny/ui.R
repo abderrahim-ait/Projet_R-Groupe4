@@ -17,7 +17,7 @@ fluidPage(
       ),
 
       column(6,
-             actionButton("Nouveau" ,label= "Nouveau Sudoku")),
+             actionButton("sudoku" ,label= "Sudoku")),
       hr(),
       br(),
               
@@ -49,8 +49,8 @@ fluidPage(
           hr(),
                   
           h4('Solution automatique:'),
-          actionButton("Solution",
-                       label = "Afficher"),
+          actionButton("solution",
+                       label = "Solution"),
 
         ),
 
