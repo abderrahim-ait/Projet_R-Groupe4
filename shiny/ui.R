@@ -12,23 +12,25 @@ fluidPage(
   sidebarLayout(
     sidebarPanel (
       selectInput(
-                inputId = "diff",label ="Selectionner le niveau:",
-                  choices = c("Facile","Moyenne","Difficile","Expert")
+                inputId = "diff",
+                label ="Selectionner le niveau:",
+                choices = c("Facile","Moyenne","Difficile","Expert")
       ),
 
-      column(6,
-             actionButton("sudoku" ,label= "Sudoku")),
+      
+      actionButton("sudoku" ,
+                   label= "Sudoku")
+    ),
       hr(),
-      br(),
+      
               
-      fluidRow(
-        column(
+      
           selectInput(
                     inputId = "ligne",
                     label ="Selectionnez la linge",
                     choices = list(1,2,3,4,5,6,7,8,9),
                     selected = 1),
-          width = 5,
+          
           br(),
                   
           selectInput(inputId = "colonne",
@@ -54,7 +56,6 @@ fluidPage(
 
         ),
 
-      )),
 
     mainPanel(
       tabsetPanel(
@@ -69,5 +70,5 @@ fluidPage(
                                     3) chaque chiffre n’apparait qu’une fois dans un bloc.")),
 
 
-    ))
+    )
 ))
