@@ -3,10 +3,26 @@
 # Sudoku Game 
 Bibliothèque pour générer, valider, résoudre des puzzles sudoku
 
+## Objectif
+L’objectif de ce travail est de créer une bibliothèque R, incluant une application Shiny, contenant des fonctions permettant de :
+- générer aléatoirement des grilles de Sudoku complètes
+- résoudre des grilles de Sudoku incomplètes
+- générer des grilles de Sudoku incomplètes associées à un niveau de difficulté
+
+# Le solveur utiliser : ( backtracking )
+----------------------------------------
+Principe :
+
+Le backtracking est une forme de parcours en profondeur d'un arbre avec des contraintes sur les noeuds.
+L'idée est de partir du noeud parent, descendre dans le premier noeud fils satisfaisant la contrainte. Ce noeud fils devient alors un noeud parent et l'on parcourt ensuite ses noeuds fils sous le même principe.
+Lorsque l'on a parcouru tous les noeuds fils d'un noeud et qu'aucun ne satisfait la contrainte, on remonte alors au noeud parent et on descend dans le noeud fils suivant.
+Si l'on arrive au dernier fils du premier noeud parent et qu'il ne satisfait pas la contrainte alors il n'existe pas de solution.
+La solution est identifiée lorsque l'on arrive à un noeud qui satisfait la contrainte et qui n'a pas de noeud fils.
+
 # Application Shiny 
 Thème 1 :
 ---------
-<p align="center">
+<p >
   <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku.png" width="650" title="Suduko">
 </p>
 
@@ -16,14 +32,17 @@ Thème 2 :
   <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku2.png" width="650" title="Suduko">
 </p>
 
+
+
+
+
+
+
+
 PROJET M1 SSD -- Programmation R
 
 
-## INTRODUCTION
-L’objectif du projet est de créer une bibliothèque R, incluant une application Shiny, contenant des fonctions permettant de :
-- générer aléatoirement des grilles de Sudoku complètes
-- résoudre des grilles de Sudoku incomplètes
-- générer des grilles de Sudoku incomplètes associées à un niveau de difficulté
+
 
 
 
