@@ -23,13 +23,13 @@ La solution est identifiée lorsque l'on arrive à un noeud qui satisfait la con
 Thème 1 :
 ---------
 <p >
-  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku.png" width="800" title="Suduko">
+  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku.png" width="1000" title="Suduko">
 </p>
 
 Thème 2 :
 ---------
 <p align="center">
-  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku2.png" width="650" title="Suduko">
+  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku2.png" width="1000" title="Suduko">
 </p>
 
 
