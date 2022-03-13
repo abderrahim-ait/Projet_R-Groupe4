@@ -1,4 +1,6 @@
 <a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributors' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Contributors_-100000?style=flat&logo=GitHub&logoColor=white&labelColor=EAD809&color=black'/></a>
+<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/LICENSE' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Licence-100000?style=for-the-badge&logo=GitHub&logoColor=F7F70A&labelColor=black&color=DD420A'/></a>
+<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/R/Application.R' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Applictation-100000?style=for-the-badge&logo=GitHub&logoColor=FDFDF9&labelColor=black&color=05EA51'/></a>
 
 # Sudoku Game 
 Bibliothèque pour générer, valider, résoudre des puzzles sudoku
@@ -19,11 +21,8 @@ Lorsque l'on a parcouru tous les noeuds fils d'un noeud et qu'aucun ne satisfait
 Si l'on arrive au dernier fils du premier noeud parent et qu'il ne satisfait pas la contrainte alors il n'existe pas de solution.
 La solution est identifiée lorsque l'on arrive à un noeud qui satisfait la contrainte et qui n'a pas de noeud fils.
 
-# Le niveau de difficulté :
-----------------------------
-Le niveau de difficulté est dépend de nombre de passage (" nombre de back")  dans l'algorithme backtracking.
-
 # Application Shiny 
+-----------------------------------------------
 Thème 1 :
 ---------
 <p >
@@ -39,6 +38,10 @@ Thème 2 :
 
 Pour voir l'application shiny vous pouvez installer le fichier `sudokugr4_0.1.0.tar.gz` et appeler la fonction `Application()`.
 
+
+# Le niveau de difficulté :
+----------------------------
+Le niveau de difficulté est dépend de nombre de passage (" nombre de back")  dans l'algorithme backtracking.
 
 
 ## Membres du Groupe
