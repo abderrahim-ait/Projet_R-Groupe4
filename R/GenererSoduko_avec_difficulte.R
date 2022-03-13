@@ -55,6 +55,9 @@ GenererSudoku_avec_difficulte <- function(Niveau) {
   return(VR)
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> bb4ba068d8be796c1aefd0441ffcd45b5d3f8bc4
 
 
