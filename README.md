@@ -3,13 +3,13 @@
 <a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/R/Application.R' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Applictation-100000?style=plastic&logo=GitHub&logoColor=FDFDF9&labelColor=black&color=05EA51'/></a>
 
 # Sudoku Game 
-Bibliothèque pour générer, valider, résoudre des puzzles sudoku
+Bibliothèque pour générer, valider, résoudre des puzzles sudoku.
 
 ## Objectif
 L’objectif de ce travail est de créer une bibliothèque R, incluant une application Shiny, contenant des fonctions permettant de :
-- générer aléatoirement des grilles de Sudoku complètes
-- résoudre des grilles de Sudoku incomplètes
-- générer des grilles de Sudoku incomplètes associées à un niveau de difficulté
+- générer aléatoirement des grilles de Sudoku complètes.
+- résoudre des grilles de Sudoku incomplètes.
+- générer des grilles de Sudoku incomplètes associées à un niveau de difficulté.
 
 # Le solveur utiliser : ( backtracking )
 ----------------------------------------
@@ -44,8 +44,8 @@ Pour voir l'application shiny vous pouvez installer le fichier `sudokugr4_0.1.0.
 Le niveau de difficulté est dépend de nombre de passage (" nombre de back")  dans l'algorithme backtracking.
 
 
-## Membres du Groupe
-------------------------
+## Membres du Groupe :
+-----------------------
 
 Abderrahim Ait Moulay abderrahim.ait-moulay01@etu.umontpellier.fr
 
