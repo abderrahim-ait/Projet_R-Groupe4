@@ -1,4 +1,4 @@
-<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributors' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Contributors_-100000?style=flat&logo=GitHub&logoColor=white&labelColor=EAD809&color=black'/></a>
+<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributors' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Contributors-100000?style=plastic&logo=GitHub&logoColor=FDFDF9&labelColor=black&color=23ADF7'/></a>
 <a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/LICENSE' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Licence-100000?style=plastic&logo=GitHub&logoColor=FDFDF9&labelColor=black&color=F77C00'/></a>
 <a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/R/Application.R' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Applictation-100000?style=plastic&logo=GitHub&logoColor=FDFDF9&labelColor=black&color=05EA51'/></a>
 
@@ -40,7 +40,7 @@ Pour voir l'application shiny vous pouvez installer le fichier `sudokugr4_0.1.0.
 
 
 # Le niveau de difficulté :
-----------------------------
+
 Le niveau de difficulté est dépend de nombre de passage (" nombre de back")  dans l'algorithme backtracking.
 
 
