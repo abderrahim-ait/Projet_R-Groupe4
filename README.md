@@ -1,6 +1,6 @@
 <a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/graphs/contributors' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Contributors_-100000?style=flat&logo=GitHub&logoColor=white&labelColor=EAD809&color=black'/></a>
-<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/LICENSE' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Licence-100000?style=for-the-badge&logo=GitHub&logoColor=F7F70A&labelColor=black&color=DD420A'/></a>
-<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/R/Application.R' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Applictation-100000?style=for-the-badge&logo=GitHub&logoColor=FDFDF9&labelColor=black&color=05EA51'/></a>
+<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/LICENSE' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Licence-100000?style=plastic&logo=GitHub&logoColor=FDFDF9&labelColor=black&color=F77C00'/></a>
+<a href='https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/R/Application.R' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Applictation-100000?style=plastic&logo=GitHub&logoColor=FDFDF9&labelColor=black&color=05EA51'/></a>
 
 # Sudoku Game 
 Bibliothèque pour générer, valider, résoudre des puzzles sudoku
