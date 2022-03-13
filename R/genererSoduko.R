@@ -1,6 +1,6 @@
 
 
-#' Suprimer des valeur aliatoire dans un Soduku
+#' @title Suprimer des valeur aliatoire dans un Soduku
 #'
 #'
 #'@param A : une matrice
@@ -8,7 +8,8 @@
 #'@return une matrice de tail 9x9 qui contient les valeurs vide
 #'@author AIT MOULAY ABDERRAHIM
 #'@examples
-#' A = genererSoduko (matrice , nombre de valeur )
+#'  A = matrix(1,9,9)
+#' A = genererSoduko (A , 54 )
 #'@export
 #'
 

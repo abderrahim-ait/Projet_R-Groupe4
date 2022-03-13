@@ -1,4 +1,4 @@
-#' Test une valeur si il existe dans une colonne
+#'@title Test une valeur si il existe dans une colonne
 #'
 #'
 #'@param A : une matrice
@@ -7,14 +7,16 @@
 #'@return : True si n existe deja dans la colonne, Sinon False
 #'@author AIT MOULAY ABDERRAHIM
 #'@examples
-#' testcolonne (matrice , 2 , valeur )
+#' A = Suduko()
+#' A= genererSoduko(A,50)
+#' testcolonne (A , 2 , 3 )
 #'@export
 #'
 
 testcolonne <- function (A,j,n) {
 
 
-  if ( ( n %in% A[,j]) ) return(TRUE)
+  if  ( n %in% A[,j])  return(TRUE)
 
   else return(FALSE)
 

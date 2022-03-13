@@ -1,4 +1,4 @@
-#' Test une valeur si il existe dans un block
+#'@title Test une valeur si il existe dans un block
 #'
 #'
 #'@param A : une matrice
@@ -8,7 +8,8 @@
 #'@return : True si n existe deja dans le bock, Sinon False
 #'@author AIT MOULAY ABDERRAHIM
 #'@examples
-#' testBlock (matrice , 2 , 5 , valeur )
+#'  A = matrix(1,9,9)
+#' testBlock (A , 2 , 5 , 3 )
 #'@export
 #'
 

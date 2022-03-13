@@ -3,9 +3,12 @@
 #' @param B : Une matrice
 #'
 #' @return une Data frame qui contient la solution du grille de sudoku avec ainsi que le nombre de back.
+#' @author AIT MOULAY ABDERRAHIM
 #' @export
 #'
 #' @examples
+#'  A = Suduko()
+#'  A = genererSoduko(A,50)
 #'  BacktrackingFinale(A)
 #'
 #'

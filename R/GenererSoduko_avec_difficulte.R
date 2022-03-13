@@ -1,11 +1,13 @@
-#' Generer un Sudoku avec difficulte grace a l'algorithme du backtraking
+#' @title Generer un Sudoku avec difficulte grace a l'algorithme du backtraking
 #'
 #' @param Niveau : un entier entre 1 et 4
 #'
 #' @return une Data frame qui contient la grille du sudoku avec son solution ansi que le nombre de back.
+#' @author AIT MOULAY ABDERRAHIM
 #' @export
 #'
 #' @examples
+#'
 #'  GenererSudoku_avec_difficulte(2)
 #'
 #'
@@ -40,7 +42,7 @@ GenererSudoku_avec_difficulte <- function(Niveau) {
   repeat {
     B = Suduko()
     B = genererSoduko(B, N)
-    A <<- B
+    A <- B
     nbr = 0
     X = BacktrackingFinale(A)
     k= X[2]
@@ -53,14 +55,6 @@ GenererSudoku_avec_difficulte <- function(Niveau) {
   return(VR)
 }
 
-X=rep(0,100)
-for(i in 1 : 100){
 
-  T1=Sys.time()
-  GenererSoduko_avec_difficulte(3)
-  T2=Sys.time()
-  X[i]=as.numeric(difftime(T2,T1))
-
-}
 
 

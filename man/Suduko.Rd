@@ -6,9 +6,6 @@
 \usage{
 Suduko()
 }
-\arguments{
-\item{:}{Sans paramétre}
-}
 \value{
 une matrice de tail 9x9 qui contient les chiffres du suduko
 }
@@ -17,6 +14,7 @@ Generation d'un suduko
 }
 \examples{
 A = Suduko()
+
 }
 \author{
 AIT MOULAY ABDERRAHIM

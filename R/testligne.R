@@ -1,4 +1,4 @@
-#' Test une valeur si il existe dans une ligne
+#' @title Test une valeur si il existe dans une ligne
 #'
 #'
 #'@param A : une matrice
@@ -7,7 +7,8 @@
 #'@return : True si n existe deja dans la ligne, Sinon False
 #'@author AIT MOULAY ABDERRAHIM
 #'@examples
-#' testligne (matrice , 2 , valeur )
+#' A = matrix(1,9,9)
+#' testligne (A , 2 , 5 )
 #'@export
 #'
 

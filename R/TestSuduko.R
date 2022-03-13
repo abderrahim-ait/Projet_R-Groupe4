@@ -1,11 +1,13 @@
-#' Test la solution du Suduko si elle est valide ou non
+#' @title Test la solution du Suduko si elle est valide ou non
 #'
 #'
 #'@param A : une matrice
 #'@return : True si la solution est valide, sinon False
 #'@author AIT MOULAY ABDERRAHIM
 #'@examples
-#' testcolonne (matrice)
+#'  A = Suduko()
+#'  A= genererSoduko(A,50)
+#'  TestSuduko (A)
 #'@export
 #'
  TestSuduko <- function(A){
