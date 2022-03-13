@@ -7,13 +7,13 @@ Bibliothèque pour générer, valider, résoudre des puzzles sudoku
 Thème 1 :
 ---------
 <p align="center">
-  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku.png" width="500" title="Suduko">
+  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku.png" width="650" title="Suduko">
 </p>
 
 Thème 2 :
 ---------
 <p align="center">
-  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku2.png" width="500" title="Suduko">
+  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku2.png" width="650" title="Suduko">
 </p>
 
 PROJET M1 SSD -- Programmation R
