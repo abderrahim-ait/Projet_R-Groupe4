@@ -23,7 +23,7 @@ La solution est identifiée lorsque l'on arrive à un noeud qui satisfait la con
 Thème 1 :
 ---------
 <p >
-  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku.png" width="650" title="Suduko">
+  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku.png" width="800" title="Suduko">
 </p>
 
 Thème 2 :
