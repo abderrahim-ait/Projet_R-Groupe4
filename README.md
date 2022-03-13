@@ -19,6 +19,10 @@ Lorsque l'on a parcouru tous les noeuds fils d'un noeud et qu'aucun ne satisfait
 Si l'on arrive au dernier fils du premier noeud parent et qu'il ne satisfait pas la contrainte alors il n'existe pas de solution.
 La solution est identifiée lorsque l'on arrive à un noeud qui satisfait la contrainte et qui n'a pas de noeud fils.
 
+# Le niveau de difficulté :
+----------------------------
+Le niveau de difficulté est dépend de nombre de passage (" nombre de back")  dans l'algorithme backtracking.
+
 # Application Shiny 
 Thème 1 :
 ---------
@@ -33,8 +37,16 @@ Thème 2 :
 </p>
 
 
+Pour voir l'application shiny vous pouvez installer le fichier `sudokugr4_0.1.0.tar.gz` et appeler la fonction `Application()`.
 
 
+
+## Membres du Groupe
+------------------------
+
+Abderrahim Ait Moulay abderrahim.ait-moulay01@etu.umontpellier.fr
+
+Jiayue Yuan jiayue.yuan@etu.umontpellier.fr
 
 
 
