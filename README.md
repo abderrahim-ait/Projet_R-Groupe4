@@ -4,7 +4,7 @@
 Bibliothèque pour générer, valider, résoudre des puzzles sudoku
 
 <p align="center">
-  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku.png" width="400" title="Suduko">
+  <img src="https://github.com/abderrahim-ait/Projet_R-Groupe4/blob/main/inst/Sudoku/www/Sudoku.png" width="500" title="Suduko">
 </p>
 
 
